@@ -3,7 +3,9 @@
 ```python
 # First define the function
 def print_message():
+    name = 'Eleazar'
     print("Hello CSE 110 World!")
+    return name
 
 # Call the function now
 print_message()

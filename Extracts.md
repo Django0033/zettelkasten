@@ -22,3 +22,6 @@
 - [[Concatenate-strings-with-join]]
 - [[Merge-two-dictionaries]]
 - [[Simplify-if-statement-for-multiple-checks]]
+- [Merge-two-lists](merge-two-lists)
+- [Python-ord-ext](python-ord-ext)
+- [Python-lambda-syntax](python-lambda-syntax)
