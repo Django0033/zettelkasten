@@ -25,3 +25,7 @@
 - [Merge-two-lists](merge-two-lists)
 - [Python-ord-ext](python-ord-ext)
 - [Python-lambda-syntax](python-lambda-syntax)
+- [Reversing-a-string](reversing-a-string)
+- [Return-multiple-values-from-functions](return-multiple-values-from-functions)
+- [Find-the-most-frequent-value-in-a-list](find-the-most-frequent-value-in-a-list)
+- [python-selection-sort](python-selection-sort)

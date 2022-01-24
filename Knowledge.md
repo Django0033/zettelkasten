@@ -15,3 +15,5 @@
 - [Define-and-call-functions](Define-and-call-functions)
 - [Passing-parameters-to-functions.py](passing-parameters-to-functionspy)
 - [Returning-values-from-functions.md](returning-values-from-functionsmd)
+- [round-a-float-to-certain-number-of-decimals](round-a-float-to-certain-number-of-decimals)
+- [print-a-table-using-format](print-a-table-using-format)

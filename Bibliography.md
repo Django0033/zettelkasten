@@ -8,6 +8,8 @@
 * [How-do-i-concatenate-two-lists-in-python](how-do-i-concatenate-two-lists-in-python)
 * [Python-ord](python-ord)
 * [Python-lambda](python-lambda)
+* [python-list-reverse](python-list-reverse)
+* [selection-sort](selection-sort) 
 
 ## Video
 
