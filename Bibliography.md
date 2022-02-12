@@ -9,7 +9,10 @@
 * [Python-ord](python-ord)
 * [Python-lambda](python-lambda)
 * [python-list-reverse](python-list-reverse)
-* [selection-sort](selection-sort) 
+* [selection-sort](selection-sort)
+* [list-and-repetition](list-and-repetition)
+* [generate-random-float-numbers-in-python-using-random-and-uniform](generate-random-float-numbers-in-python-using-random-and-uniform)
+* [getting-started-with-css-layout](getting-started-with-css-layout)
 
 ## Video
 
