@@ -2,19 +2,19 @@
 
 ## Web
 
-* [[vim-zettel-cheat-sheet]]
-* [[vimwiki-cheatsheet]]
-* [[Python-program-to-check-if-a-string-is-a-number]]
-* [How-do-i-concatenate-two-lists-in-python](how-do-i-concatenate-two-lists-in-python)
-* [Python-ord](python-ord)
-* [Python-lambda](python-lambda)
-* [python-list-reverse](python-list-reverse)
-* [selection-sort](selection-sort)
-* [list-and-repetition](list-and-repetition)
-* [generate-random-float-numbers-in-python-using-random-and-uniform](generate-random-float-numbers-in-python-using-random-and-uniform)
-* [getting-started-with-css-layout](getting-started-with-css-layout)
+* [vim-zettel-cheat-sheet](vim-zettel-cheat-sheet.md)
+* [vimwiki-cheatsheet](vimwiki-cheatsheet.md)
+* [Python-program-to-check-if-a-string-is-a-number](Python-program-to-check-if-a-string-is-a-number.md)
+* [How-do-i-concatenate-two-lists-in-python](how-do-i-concatenate-two-lists-in-python.md)
+* [Python-ord](python-ord.md)
+* [Python-lambda](python-lambda.md)
+* [python-list-reverse](python-list-reverse.md)
+* [selection-sort](selection-sort.md)
+* [list-and-repetition](list-and-repetition.md)
+* [generate-random-float-numbers-in-python-using-random-and-uniform](generate-random-float-numbers-in-python-using-random-and-uniform.md)
+* [getting-started-with-css-layout](getting-started-with-css-layout.md)
 
 ## Video
 
-* [[I-Should-Have-Just-Used-Vimwiki-From-The-Start]]
-* [[11-Tips-and-Tricks-to-Write-Better-Python-Code]]
+* [I-Should-Have-Just-Used-Vimwiki-From-The-Start](I-Should-Have-Just-Used-Vimwiki-From-The-Start.md)
+* [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)
