@@ -15,3 +15,8 @@ date: 2022-02-12 10:52
 - [css-floats](css-floats)
 - [clearing-floats](clearing-floats)
 - [the-block-formating-context](the-block-formating-context)
+- [relative-positioning](relative-positioning)
+- [absolute-positioning](absolute-positioning)
+- [fixed-positioning](fixed-positioning)
+- [sticky-positioning](sticky-positioning)
+- [flex-layout](flex-layout)
