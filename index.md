@@ -1,6 +1,6 @@
 # Zettelkasten
 
-* [Bibliography](Bibliography)
-* [Extracts](Extracts)
-* [Knowledge](Knowledge)
-* [Tags](Tags)
+* [Bibliography](Bibliography.md)
+* [Extracts](Extracts.md)
+* [Knowledge](Knowledge.md)
+* [Tags](Tags.md)
