@@ -7,5 +7,5 @@
 
 ## Extracts
 * [Installation-and-Setup](Installation-and-Setup.md)
-* [Create a New Note](Create a New Note)
-* [Back Links](Back Links)
+* [Create-a-New-Note](Create-a-New-Note.md)
+* [Back-Links](Back-Links.md)
