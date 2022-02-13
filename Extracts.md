@@ -1,11 +1,11 @@
 # Extracts
 
-- [[Add-Header-Level]]
-- [[Back-Links]]
-- [[Create-a-New-Note]]
-- [[Delete-a-Wiki-File]]
-- [[Installation-and-Setup]]
-- [[Iterate-with-enumerate-instead-of-range]]
+- [Add-Header-Level](Add-Header-Level.md)
+- [Back-Links](Back-Links.md)
+- [Create-a-New-Note](Create-a-New-Note.md)
+- [Delete-a-Wiki-File](Delete-a-Wiki-File.md)
+- [Installation-and-Setup](Installation-and-Setup.md)
+- [Iterate-with-enumerate-instead-of-range](Iterate-with-enumerate-instead-of-range.md)
 - [[Jump-to-the-Next-Link-on-Buffer]]
 - [[List-and-Select-Available-Wikis]]
 - [[Remove-Header-Level]]
