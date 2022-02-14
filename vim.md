@@ -1,12 +1,12 @@
-[Tags](Tags)
+[Tags](Tags.md)
 
 # Vim
 
-- [Add Header Level](Add Header Level)
-- [Back Links](Back Links)
-- [Create a New Note](Create a New Note)
-- [Installation and Setup](Installation and Setup)
-- [List and Select Available Wikis](List and Select Available Wikis)
-- [Remove Header Level](Remove Header Level)
-- [vim-zettel cheat sheet](vim-zettel cheat sheet)
-- [vimwiki-cheatsheet](vimwiki-cheatsheet)
+- [Add-Header-Level](Add-Header-Level.md)
+- [Back-Links](Back-Links.md)
+- [Create-a-New-Note](Create-a-New-Note.md)
+- [Installation-and-Setup](Installation-and-Setup.md)
+- [List-and-Select-Available-Wikis](List-and-Select-Available-Wikis.md)
+- [Remove-Header-Level](Remove-Header-Level.md)
+- [vim-zettel-cheat-sheet](vim-zettel-cheat-sheet.md)
+- [vimwiki-cheatsheet](vimwiki-cheatsheet.md)
