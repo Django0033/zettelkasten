@@ -1,18 +1,20 @@
-# [[Extracts]]
+[Extracts](Extracts.md)
+
+# Count Hashable Objects with collections counter
 
 ```python
-from collection import Counter
+from collections import Counter
 
 my_list = [10,10,10,5,5,2,9,9,9,9,9,9,9]
-counter = Counter(my_list)
+counter = Counter(my_list) # Creates a dick with unique items from the list and the number of times the item appears in the list.
 
 print(counter)
-print(counter[10])
+print(counter[10]) # Prints the value of the key "10" in the dicth.
 
-most_common = counter.most_common(1)
+most_common = counter.most_common(1) # Returns the most common item. The argument especifies the number fo items.
 print(most_common)
 ```
 
--[[11-Tips-and-Tricks-to-Write-Better-Python-Code]]
+-[11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)
 
-- [[python]]
+- [python](python.md)
