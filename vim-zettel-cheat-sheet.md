@@ -1,4 +1,4 @@
-[Bibliography](Bibliography)
+[Bibliography](Bibliography.md)
 
 # vim-zettel cheat sheet
 
