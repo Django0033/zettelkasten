@@ -1,4 +1,4 @@
-[Tags](Tags)
+[Tags](Tags.md)
 
 # Vim-Zettel
 
