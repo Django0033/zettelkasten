@@ -46,3 +46,8 @@
 - [fixed-positioning](fixed-positioning.md)
 - [sticky-positioning](sticky-positioning.md)
 - [flex-layout](flex-layout.md)
+- [git-branch](git-branch.md)
+- [git-checkout](git-checkout.md)
+- [git-checkout-into-a-new-branch](git-checkout-into-a-new-branch.md)
+- [git-merge](git-merge.md)
+- [git-rebase](git-rebase.md)

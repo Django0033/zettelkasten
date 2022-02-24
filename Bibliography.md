@@ -13,6 +13,7 @@
 * [list-and-repetition](list-and-repetition.md)
 * [generate-random-float-numbers-in-python-using-random-and-uniform](generate-random-float-numbers-in-python-using-random-and-uniform.md)
 * [getting-started-with-css-layout](getting-started-with-css-layout.md)
+* [learning-git-branching](./learn-git-branching.md)
 
 ## Video
 
