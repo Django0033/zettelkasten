@@ -21,3 +21,5 @@
 -   [python-dictionaries](python-dictionaries.md)
 -   [processing-all-items-compound-dictionary](processing-all-items-compound-dictionary.md)
 -   [converting-between-lists-and-dictionaries](converting-between-lists-and-dictionaries.md)
+-   [count-words](count-wordsa.md)
+-   [toggle-inline-dif](toggle-inline-dif.md)
