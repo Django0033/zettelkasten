@@ -7,3 +7,4 @@
 -   [css](css.md)
 -   [git](./git.md)
 -   [vim-fugitive](vim-fugitive.md)
+-   [pacman](pacman.md)
