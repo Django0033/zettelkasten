@@ -72,5 +72,8 @@
 - [round-a-float-to-certain-number-of-decimals](round-a-float-to-certain-number-of-decimals.md)
 - [selection-sort](selection-sort.md)
 - [turn-csv-file-content-into-a-dictionary-in-python](turn-csv-file-content-into-a-dictionary-in-python.md)
+- [what-is-a-runtime-error-in-python](what-is-a-runtime-error-in-python.md)
+- [what-is-a-syntax-error-in-python](what-is-a-syntax-error-in-python.md)
+- [what-is-an-exception-in-python](what-is-an-exception-in-python.md)
 - [while-loop](while-loop.md)
 - [Why-use-lambda-functions](why-use-lambda-functions.md)
