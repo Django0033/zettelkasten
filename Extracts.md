@@ -51,6 +51,8 @@
 - [git-revert](git-revert.md)
 - [How-do-i-concatenate-two-lists-in-python](how-do-i-concatenate-two-lists-in-python.md)
 - [how-the-reduce-function-works-in-python](how-the-reduce-function-works-in-python.md)
+- [how-to-replace-many-characters-in-a-string-in-python](how-to-replace-many-characters-in-a-string-in-python.md)
+- [how-to-replace-some-characters-and-remove-others-in-a-string-in-python](how-to-replace-some-characters-and-remove-others-in-a-string-in-python.md)
 - [index](index.md)
 - [iterate-through-a-list](iterate-through-a-list.md)
 - [learn-git-branching](learn-git-branching.md)
