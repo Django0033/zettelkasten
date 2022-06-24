@@ -9,7 +9,7 @@
 -   [branch-forcing](branch-forcing.md)
 -   [change-remote-in-git](change-remote-in-git.md)
 -   [detach-yo-head](detach-yo-head.md)
--   [discard-changes](discard-changes.md)
+-   [discard-changes](discard-changes-in-vim-fugitive.md)
 -   [git-branch](git-branch.md)
 -   [git-checkout-into-a-new-branch](git-checkout-into-a-new-branch.md)
 -   [git-checkout](git-checkout.md)
