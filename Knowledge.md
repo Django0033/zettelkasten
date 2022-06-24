@@ -18,7 +18,7 @@
 -   [count-words](count-wordsa.md)
 -   [css-viewport](css-viewport.md)
 -   [dictionaries-compound-values](dictionaries-compound-values.md)
--   [discard-changes](discard-changes.md)
+-   [discard-changes](discard-changes-in-vim-fugitive.md)
 -   [finding-the-size-of-the-list](finding-the-size-of-the-list-141121.md)
 -   [index](index.md)
 -   [Iterate throug a list of tuples](iterate-throug-a-list-of-tuples-131121.md)
