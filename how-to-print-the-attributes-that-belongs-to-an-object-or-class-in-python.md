@@ -1,4 +1,4 @@
-[Extracts](Extracts.md)
+#extract
 
 # How to print the attributes that belongs to an object or class in Python
 
@@ -21,5 +21,6 @@ print(item1.__dict__)
 ```
 
 - [[object-oriented-programming-with-python]]
-- [[python]]
-- [[object-oriented-programming]]
+
+#python
+#object-oriented-programming
