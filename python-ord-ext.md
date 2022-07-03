@@ -12,7 +12,7 @@ unicode_char = ord(character)
 
 print(unicode_char)
 
-#output: 80
+# output: 80
 ```
 
 - [Python-ord](python-ord)

@@ -18,7 +18,7 @@ for item in shopping_cart:
     price = item[1]
 
     if price > max_price:
-        #This is the new max
+        # This is the new max
         max_price = price
 
         # Also save this product name as the max product
