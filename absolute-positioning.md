@@ -3,7 +3,8 @@ title: absolute-positioning
 date: 2022-02-12 18:09
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # Absolute Positioning
 
@@ -47,5 +48,4 @@ p {
 }
 ```
 
-- [css](css)
 - [getting-started-with-css-layout](getting-started-with-css-layout)

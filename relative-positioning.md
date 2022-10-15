@@ -3,7 +3,8 @@ title: relative-positioning
 date: 2022-02-12 18:00
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # Relative Positioning
 
@@ -46,4 +47,3 @@ p {
 ```
 
 -[getting-started-with-css-layout](getting-started-with-css-layout)
--[css](css)

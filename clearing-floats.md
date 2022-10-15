@@ -3,7 +3,8 @@ title: clearing-floats
 date: 2022-02-12 11:22
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # Clearing Floats
 
@@ -53,4 +54,3 @@ p {
 ```
 
 - [getting-started-with-css-layout](getting-started-with-css-layout)
-- [css](css)

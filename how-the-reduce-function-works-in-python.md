@@ -3,7 +3,9 @@ title: how-the-reduce-function-works-in-python
 date: 2022-03-20 19:16
 ---
 
-[Extracts](Extracts.md)
+#extract
+#python
+#functional-programming
 
 # How the reduce() Function Works in Python
 
@@ -30,5 +32,3 @@ print(total)
 ```
 
 -   [pythons reduce from functional to pythonic style](pythons-reduce-from-functional-to-pythonic-style.md)
--   [python](python.md)
--   [functional-programming](functional-programming.md)

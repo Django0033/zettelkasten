@@ -3,7 +3,8 @@ title: how-to-respond-to-a-key-event-in-js
 date: 2022-05-25 22:25
 ---
 
-[Knowledge](Knowledge.md)
+#knowledge
+#javascript
 
 ```html
 <!DOCTYPE html>
@@ -32,5 +33,3 @@ date: 2022-05-25 22:25
     </script>
 </html>
 ```
-
--   [javascript](javascript.md)

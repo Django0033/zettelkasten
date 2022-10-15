@@ -3,7 +3,8 @@ title: sticky-positioning
 date: 2022-02-12 18:53
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # Sticky Positioning
 
@@ -52,4 +53,3 @@ p {
 ```
 
 - [getting-started-with-css-layout](getting-started-with-css-layout)
-- [css](css)

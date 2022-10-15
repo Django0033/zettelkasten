@@ -3,7 +3,8 @@ title: fixed-positioning
 date: 2022-02-12 18:33
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # Fixed Positioning
 
@@ -52,4 +53,3 @@ p {
 ```
 
 - [getting-started-with-css-layout](getting-started-with-css-layout)
-- [css](css)

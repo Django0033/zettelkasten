@@ -3,7 +3,8 @@ title: flex-layout
 date: 2022-02-13 10:00
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # Flex Layout
 
@@ -45,4 +46,3 @@ body {
 ```
 
 - [getting-started-with-css-layout](getting-started-with-css-layout)
-- [css](css)

@@ -3,7 +3,8 @@ title: css-floats
 date: 2022-02-12 11:07
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # CSS floats
 
@@ -17,4 +18,3 @@ Are used to shift a box to the left or right, allowing content to display wrappe
 ```
 
 - [getting-started-with-css-layout](getting-started-with-css-layout)
-- [css](css)

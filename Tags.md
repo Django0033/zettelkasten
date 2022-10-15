@@ -2,7 +2,6 @@
 
 # Backlinks
 
--   [css](css.md)
 -   [functional-programming](functional-programming.md)
 -   [git](git.md)
 -   [index](index.md)

@@ -3,7 +3,8 @@ title: the-block-formating-context
 date: 2022-02-12 12:02
 ---
 
-[Extracts](Extracts)
+#extract
+#css
 
 # The Block Formating Context
 
@@ -22,4 +23,3 @@ Is another way to clear floats inside a box. Contains everything inside it, whic
 ```
 
 - [getting-started-with-css-layout](getting-started-with-css-layout)
-- [css](css)
