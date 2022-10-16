@@ -1,11 +1,10 @@
-[Bibliography](Bibliography.md)
+#bibliography
+#python
 
 # 11 Tips and Tricks to Write Better Python Code
 
 - Author: Python Engineer
 - URL: <https://www.youtube.com/watch?v=8OKTAedgFYg>
-
-[python](python.md)
 
 ## Extracts
 

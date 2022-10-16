@@ -1,4 +1,5 @@
-# [[Extracts]]
+#extract
+#python
 
 ```python
 # Bad
@@ -18,5 +19,4 @@ for idx, num in enumerate(data):
 print(data)
 ```
 
-[[11-Tips-and-Tricks-to-Write-Better-Python-Code]]
-[[python]]
+[11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)

@@ -1,4 +1,5 @@
-# [[Extracts]]
+#extract
+#python
 
 ```python
 # Bad
@@ -13,5 +14,4 @@ squares = [i*i for i in range(10)]
 print(squares)
 ```
 
-- [[11-Tips-and-Tricks-to-Write-Better-Python-Code]]
-- [[python]]
+- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)

@@ -6,7 +6,6 @@
 
 -   [Extracts](Extracts.md)
 -   [Tags](Tags.md)
--   [branch-forcing](branch-forcing.md)
 -   [change-remote-in-git](change-remote-in-git.md)
 -   [detach-yo-head](detach-yo-head.md)
 -   [discard-changes](discard-changes-in-vim-fugitive.md)

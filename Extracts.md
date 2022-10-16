@@ -2,17 +2,6 @@
 
 # Backlinks
 
-- [10-essential-python-tips-and-tricks-for-programmers](10-essential-python-tips-and-tricks-for-programmers.md)
-- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)
-- [Add-Header-Level](Add-Header-Level.md)
-- [Back-Links](Back-Links.md)
-- [Concatenate-strings-with-join](Concatenate-strings-with-join.md)
-- [Count-hashable-objects-with-collections-counter](Count-hashable-objects-with-collections-counter.md)
-- [Create-a-New-Note](Create-a-New-Note.md)
-- [Define-default-values-in-dictionaries](Define-default-values-in-dictionaries.md)
-- [Delete-a-Wiki-File](Delete-a-Wiki-File.md)
-- [Format-strings-with-f-strings](Format-strings-with-f-strings.md)
-- [Function-check-number](Function-check-number.md)
 - [I-Should-Have-Just-Used-Vimwiki-From-The-Start](I-Should-Have-Just-Used-Vimwiki-From-The-Start.md)
 - [Installation-and-Setup](Installation-and-Setup.md)
 - [Iterate-with-enumerate-instead-of-range](Iterate-with-enumerate-instead-of-range.md)

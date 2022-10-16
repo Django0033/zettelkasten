@@ -2,7 +2,6 @@
 
 # Backlinks
 
--   [functional-programming](functional-programming.md)
 -   [git](git.md)
 -   [index](index.md)
 -   [javascript](javascript.md)

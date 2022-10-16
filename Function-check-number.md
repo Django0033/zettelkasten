@@ -1,4 +1,5 @@
-# [[Extracts]]
+#extract
+#python
 
 ```python
 def isfloat(num):
@@ -9,5 +10,4 @@ def isfloat(num):
         return False
 ```
 
-- [[Python-program-to-check-if-a-string-is-a-number]]
-- [[python]]
+- [Python-program-to-check-if-a-string-is-a-number](Python-program-to-check-if-a-string-is-a-number.md)

@@ -1,4 +1,5 @@
-# [[Extracts]]
+#extract
+#python
 
 ```python
 name = 'Alex'
@@ -9,5 +10,4 @@ i = 10
 print(f'{i} squared is {i * i}')
 ```
 
-- [[11-Tips-and-Tricks-to-Write-Better-Python-Code]]
-- [[python]]
+- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)

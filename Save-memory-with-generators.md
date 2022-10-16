@@ -1,4 +1,5 @@
-# [[Extracts]]
+#extract
+#python
 
 ```python
 import sys
@@ -14,5 +15,4 @@ print(sys.getsizeof(my_gen), 'bytes')
 
 Reduces memory usage.
 
-- [[11-Tips-and-Tricks-to-Write-Better-Python-Code]]
-- [[python]]
+- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)

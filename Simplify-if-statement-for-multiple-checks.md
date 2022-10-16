@@ -1,4 +1,5 @@
-# [[Extracts]]
+#extract
+#python
 
 ```python
 colors = ['red', 'green', 'blue']
@@ -8,5 +9,4 @@ if c in colors:
     print('is main color')
 ```
 
-- [[11-Tips-and-Tricks-to-Write-Better-Python-Code]]
-- [[python]]
+- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)

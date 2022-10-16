@@ -1,7 +1,7 @@
-[[Extracts]]
+#extract
+#vim
+#vimwiki
 
 ``=`` - add header level
 
-[[vimwiki-cheatsheet]]
-[[vim]]
-[[vimwiki]]
+- [vimwiki-cheatsheet](vimwiki-cheatsheet.md)

@@ -3,7 +3,7 @@ title: 10-essential-python-tips-and-tricks-for-programmers
 date: 2021-12-07 23:10
 ---
 
-# [Bibliography](Bibliography)
+#bibliography
 
 ## 10 Essential Python Tips and Tricks for Programmers
 
