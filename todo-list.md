@@ -3,7 +3,7 @@
 ## Credinstante
 - [x] Coordinar la recuperación de 3 horas con Marilin Ruiz.
 - [ ] Verificar pago de horas de Marilin
-    - [x] Martes 08-11
+    - [ ] Martes 08-11
     - [ ] Miercoles 09-11
     - [ ] Jueves 10-11
 
@@ -46,7 +46,7 @@ No se registra como gestionado al tipificar.
 - Aldana Hernandez
 
 3 primeros meses se paga fijo.
-- [ ] Se paga por hora posición
+- Se paga por hora posición
 Mínimo 12 ventas luego un variable.
 Se necesitan 5 vendedores. No es necesario que esten gestionando.
 No hay reportería.
