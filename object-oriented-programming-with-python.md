@@ -1,4 +1,6 @@
 #bibliography
+#python
+#object-oriented-programming
 
 # Object Oriented Programming with Python
 
@@ -11,6 +13,3 @@
 - [[how-to-override-the-value-of-a-class-attribute-for-a-specific-instance-in-python]]
 - [[how-to-print-the-attributes-that-belongs-to-an-object-or-class-in-python]]
 - [[how-to-create-a-list-with-all-the-instances-of-a-class]]
-
-#python
-#object-oriented-programming
