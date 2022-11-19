@@ -1,45 +1,79 @@
 # To-do
+- [x] Directorio de campañas
+
+## Neoautos
+- [x] Flujo de gestión
+- [x] Asignación por mes.
+- [x] Recorrido de base.
+- [ ] Intensidad.
+- [x] Contactabilidad.
+- [x] Producción por día.
+- [ ] Producción por mes.
+- [ ] Recibir correos de estudios de placa
+    - [ ] Verificar corrección con Jania
+
+Rosenda se ausentó de las 11 a la 1:30.
 
 ## Credinstante
-- [x] Coordinar la recuperación de 3 horas con Marilin Ruiz.
-- [ ] Verificar pago de horas de Marilin
-    - [ ] Martes 08-11
-    - [ ] Miercoles 09-11
-    - [ ] Jueves 10-11
+- [x] Base de asignación.
+- [x] Producción.
+- [ ] Actualizar paleta de tipificaciones.
+    - [ ] Verificar actualización con Jania.
+- [x] Enviar Speech
+- [ ] Etiqueta diferenciar Siembra y LDFR Express.
+Siembra 3000
+LDFR Express 6000
 
 ## Santander LD Comercios
-- [ ] Reconocer feriados 06 y 30 de Agosto
+- [ ] Avance del mes.
+    - [x] Solicitar avance del mes a Lorena.
+    - [ ] Verificar recepción del dato.
+- [ ] Establecer metas por asesora.
+- [ ] Verificar problemas con los celulares.
+- [x] Reconocer feriados 06 y 30 de Agosto
     - Miriam Baltazar, Maricarmen Escobar y Laura Villalobos.
     - [x] Solicitar la confirmación de Julio Niño.
     - [x] Solicitar la aprobación de Charlotte.
-    - [ ] Confirmar la aprobación de Charlotte.
-    - [ ] Confirmar la aprobación de Camilo.
-    - [ ] Enviar correo a Remuneraciones.
-- [ ] Creación de plantillas para Wsp.
-- [ ] Enviar a M4G las credenciales de las cuentas de Zoho One
-- [ ] Dar de baja a 2 asesoras 
+    - [x] Confirmar la aprobación de Charlotte.
+    - [x] Confirmar la aprobación de Camilo.
+    - [x] Enviar correo a Remuneraciones.
+- [ ] Dar de baja a 2 asesoras
+    - [ ] Evaluar a desempeño de Laura y Maricarmen.
     - Aldana Hernandez pasa a Equifax.
-    - Miriam Baltazar se da de baja.
     - Las asesoras tienen contrato hasta el 31 de Diciembre.
-- [ ] Zoho operativo para el 01 de Diciembre.
-    - [ ] Verificar si se inició implementación.
-- [x] Revisar los archivos de capacitación.
 - [ ] Coordinar hacer sombra a Lorena.
+- [ ] Asignar la base de Aldana a Marleny
+
+Cuantas operaciones se enviarán a desembolso hoy y cuantas están pendientes. 11 y 4pm
+Comparar gestión de la top con la más baja.
+gift card 42 operaciones. 7 min de equipo 8 para la gift card.
+
+Lorena: 3 Clientes en seguimiento.
+Tiene 3 al 17 
+
+Marleny: 0 leads a la fecha. 
+mes anterior 7.
+
+Miriam: 3 a la fecha.
+
+Aldana: 0
+
+Laura: 4
+5
+
+Maricarmen: 5 
+3
 
 ## Santander Go
 - [x] Actualizar masivamente la agenda comercial.
 - [ ] Coordinar la desestimación de la factura F003-00019947 de Zoho de Septiembre.
     - [x] Confirmar la aprobación de Charlotte.
-    - [ ] Confirmar la aprobación de Camilo.
-- [x] Confirmar la aprobación de la factura de Octubre por Thais y Julio
-- [x] Enviar los sustentos de la factura a Henry Gomez
-- [x] Solicitar la emisión de la factura a Laura Aguilar
-
-### Error en Zoho
-No se registra como gestionado al tipificar.
-- 44061752
+    - [x] Confirmar la aprobación de Camilo.
+    - [ ] Confirmar la emisión de la nota de crédito con Laura Aguilar.
 
 ## Equifax
+- [ ] Revisar la pauta de Calidad
+
 - Ejecutivas Noviembre: Jessica, Claudia y Linda.
 - Apoyo Noviembre: Rosenda y Marilin.
 - Jessica Rios, Claudia Carrasco y Linda Zapata.
