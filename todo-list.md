@@ -1,16 +1,10 @@
 # To-do
-- [x] Directorio de campañas
+- [x] Actualizar planilla.
+    - Jessica Rios 22 días de gestión, 8 licencia sin goce (revisar correo)
 
 ## Neoautos
-- [x] Flujo de gestión
-- [x] Asignación por mes.
-- [x] Recorrido de base.
-- [ ] Intensidad.
-- [x] Contactabilidad.
-- [x] Producción por día.
-- [ ] Producción por mes.
-- [ ] Recibir correos de estudios de placa
-    - [ ] Verificar corrección con Jania
+- [x] Recibir correos de estudios de placa
+    - [x] Verificar corrección con Jania
 
 Rosenda se ausentó de las 11 a la 1:30.
 
@@ -25,18 +19,16 @@ Siembra 3000
 LDFR Express 6000
 
 ## Santander LD Comercios
-- [ ] Avance del mes.
-    - [x] Solicitar avance del mes a Lorena.
-    - [ ] Verificar recepción del dato.
-- [ ] Establecer metas por asesora.
+- [ ] Revisar asignación 3 meses.
+    - Independientes no pasan.
+- [ ] Verificar que clientes se asignan a Neoauto y no a LD.
+- [ ] Confirmar que están haciendo gestión de cobranza.
+- [ ] Revisar módulo de LD Comercios en Zoho.
+- [x] Establecer metas por asesora.
 - [ ] Verificar problemas con los celulares.
-- [x] Reconocer feriados 06 y 30 de Agosto
-    - Miriam Baltazar, Maricarmen Escobar y Laura Villalobos.
-    - [x] Solicitar la confirmación de Julio Niño.
-    - [x] Solicitar la aprobación de Charlotte.
-    - [x] Confirmar la aprobación de Charlotte.
-    - [x] Confirmar la aprobación de Camilo.
-    - [x] Enviar correo a Remuneraciones.
+    - Aldana Hernandez (Se baja la batería con rapidez y el cargador no carga)
+    - Marleny Sulca (Cargador con cables pelados, no carga)
+    - Miriam Baltazar (Se baja la batería y el cargador no carga)
 - [ ] Dar de baja a 2 asesoras
     - [ ] Evaluar a desempeño de Laura y Maricarmen.
     - Aldana Hernandez pasa a Equifax.
@@ -48,30 +40,14 @@ Cuantas operaciones se enviarán a desembolso hoy y cuantas están pendientes. 1
 Comparar gestión de la top con la más baja.
 gift card 42 operaciones. 7 min de equipo 8 para la gift card.
 
-Lorena: 3 Clientes en seguimiento.
-Tiene 3 al 17 
-
-Marleny: 0 leads a la fecha. 
-mes anterior 7.
-
-Miriam: 3 a la fecha.
-
-Aldana: 0
-
-Laura: 4
-5
-
-Maricarmen: 5 
-3
-
 ## Santander Go
-- [x] Actualizar masivamente la agenda comercial.
 - [ ] Coordinar la desestimación de la factura F003-00019947 de Zoho de Septiembre.
     - [x] Confirmar la aprobación de Charlotte.
     - [x] Confirmar la aprobación de Camilo.
     - [ ] Confirmar la emisión de la nota de crédito con Laura Aguilar.
 
 ## Equifax
+- [ ] Revisar speech.
 - [ ] Revisar la pauta de Calidad
 
 - Ejecutivas Noviembre: Jessica, Claudia y Linda.
