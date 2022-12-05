@@ -1,44 +1,42 @@
 # To-do
-- [x] Actualizar planilla.
-    - Jessica Rios 22 días de gestión, 8 licencia sin goce (revisar correo)
+- [ ] Cerrar facturación
+    - [x] Confirmación de Julio.
+    - [ ] Confirmación de Thais
 
 ## Neoautos
-- [x] Recibir correos de estudios de placa
-    - [x] Verificar corrección con Jania
-
-Rosenda se ausentó de las 11 a la 1:30.
 
 ## Credinstante
-- [x] Base de asignación.
-- [x] Producción.
 - [ ] Actualizar paleta de tipificaciones.
     - [ ] Verificar actualización con Jania.
-- [x] Enviar Speech
 - [ ] Etiqueta diferenciar Siembra y LDFR Express.
 Siembra 3000
 LDFR Express 6000
 
 ## Santander LD Comercios
-- [ ] Revisar asignación 3 meses.
-    - Independientes no pasan.
-- [ ] Verificar que clientes se asignan a Neoauto y no a LD.
-- [ ] Confirmar que están haciendo gestión de cobranza.
-- [ ] Revisar módulo de LD Comercios en Zoho.
-- [x] Establecer metas por asesora.
+- [ ] Analytics.
+    - [ ] Revisar asignación 3 meses.
+    - [ ] Preparar modelo en Excel.
+    - [ ] Hacer solicitud.
+    - [ ] Verificar conclusión.
+- [ ] Coordinar recojo de celulares.
+    - [ ] Laura entrega celular.
+    - [ ] Aldana entrega celular.
 - [ ] Verificar problemas con los celulares.
-    - Aldana Hernandez (Se baja la batería con rapidez y el cargador no carga)
     - Marleny Sulca (Cargador con cables pelados, no carga)
-    - Miriam Baltazar (Se baja la batería y el cargador no carga)
-- [ ] Dar de baja a 2 asesoras
-    - [ ] Evaluar a desempeño de Laura y Maricarmen.
-    - Aldana Hernandez pasa a Equifax.
-    - Las asesoras tienen contrato hasta el 31 de Diciembre.
-- [ ] Coordinar hacer sombra a Lorena.
-- [ ] Asignar la base de Aldana a Marleny
+    - Miriam Baltazar (Se baja la batería y el cargador no carga igual lo usa).
 
-Cuantas operaciones se enviarán a desembolso hoy y cuantas están pendientes. 11 y 4pm
-Comparar gestión de la top con la más baja.
-gift card 42 operaciones. 7 min de equipo 8 para la gift card.
+Qué tipo de clientes.
+Zoho: asesora reporta el caso y se envía correo automático a Kenneth.
+Medir ocupabilidad.
+
+Contactabilidad.
+Comparativa entre meses.
+Qué se viene? Con Noe y Charlotte.
+Las personas que tenemos son las correctas para la gestión?
+Evaluación comercial todos los meses.
+Enero más bases de otras campañas.
+Empezaremos a llamar.
+Habrá leads de sobra no será el único equipo (competencia?)
 
 ## Santander Go
 - [ ] Coordinar la desestimación de la factura F003-00019947 de Zoho de Septiembre.
