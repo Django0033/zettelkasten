@@ -8,11 +8,10 @@ del 10 al 15 (sin internet)
 20 Reporta que le faltan aplicativos.
 
 ## Santander LD Comercios
-- [ ] Coordinar recojo de celulares.
-    - [x] Laura entrega celular.
-    - [ ] Aldana entrega celular.
 
 Buenas tardes, le escribe Lorena Ato, Ejecutiva de Santander Consumer. Hemos recibido su solicitud de contar con un financiemiento de Libre Disponibilidad de hasta S/15.000 a 48 meses en Santander Consumer, la misma que fue registrada en nuestra plataforma de NeoAutos. ¿Desea que le de mayor información al respecto?
+
+Buenos días, sr. XXXXXX. Le saluda XXXXXX, ejecutiva de Santander Consumer. Debido a que usted es un excelente cliente con nosotros le estamos ofreciendo un crédito de Libre Disponibilidad por un monto de XXXXX con una tea especial de XX...
 
 Agregar tipificación Contactado, Oferta enviada, (tipo de envío)
 Determinar tiempos de gestión.
@@ -33,23 +32,10 @@ Empezaremos a llamar.
 Habrá leads de sobra no será el único equipo (competencia?)
 
 ## Credinstante
-- [ ] Actualizar paleta de tipificaciones.
-    - [ ] Verificar actualización con Jania.
-- [ ] Etiqueta diferenciar Siembra y LDFR Express.
-Siembra 3000
-LDFR Express 6000
-
 
 ## Santander Go
 
 ## Equifax
-- [ ] Revisar speech.
-- [ ] Revisar la pauta de Calidad
-
-- Ejecutivas Noviembre: Jessica, Claudia y Linda.
-- Apoyo Noviembre: Rosenda y Marilin.
-- Jessica Rios, Claudia Carrasco y Linda Zapata.
-- Aldana Hernandez
 
 3 primeros meses se paga fijo.
 - Se paga por hora posición
