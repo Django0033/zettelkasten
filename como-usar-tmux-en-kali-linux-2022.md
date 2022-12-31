@@ -20,3 +20,4 @@
 - [[how-to-close-a-split-in-tmux]]
 - [[how-to-move-between-splits-in-tmux]]
 - [[how-to-toggle-zoom-in-a-split-in-tmux]]
+- [[how-to-resize-a-split-in-tmux]]
