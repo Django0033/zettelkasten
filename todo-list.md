@@ -19,11 +19,15 @@
 - Reunión con cliente 1.5 h
 - Reunión con producto hipotecario. 1 h
 
-Reunión LD 16:15
-
 ## Santander LD Comercios
 
-Buenas tardes, le escribe Lorena Ato, Ejecutiva de Santander Consumer. Hemos recibido su solicitud de contar con un financiemiento de Libre Disponibilidad de hasta S/15.000 a 48 meses en Santander Consumer, la misma que fue registrada en nuestra plataforma de NeoAutos. ¿Desea que le de mayor información al respecto?
+- [ ] Revisar Analytics.
+
+2 11:32
+2 18:03
+3 8:46
+
+Buenas tardes, le escribe XXXXXXXXX, Ejecutiva de Santander Consumer. Hemos recibido su solicitud de contar con un financiemiento de Libre Disponibilidad de hasta S/15.000 a 48 meses en Santander Consumer, la misma que fue registrada en nuestra plataforma de NeoAutos. ¿Desea que le de mayor información al respecto?
 
 Buenos días, le saluda XXXXXX, ejecutiva de Santander Consumer. Debido a que usted es un excelente cliente con nosotros le estamos ofreciendo un crédito de Libre Disponibilidad. ¿Desea que le de mayor información al respecto?
 
@@ -31,17 +35,18 @@ Buenas tardes, le escribe XXXXXX, Ejecutiva de Santander Consumer. El motivo de 
 
 ## Credinstante
 
+- [ ] Ingresar RQ
+- [ ] Verificar si Marilin desea reingresar.
+
 ## Santander Go
 
 ## Equifax
 
-3 primeros meses se paga fijo.
-- Se paga por hora posición
-Mínimo 12 ventas luego un variable.
-Se necesitan 5 vendedores. No es necesario que esten gestionando.
-No hay reportería.
-Gestionar hot leads
-Inicio de gestión el martes o miercoles (debimos salir el 2 de noviembre).
-Compartir nómina para los correos.
-Capacitaciones 7 y 8.
-2 día con calidad.
+## Neotransferencias
+
+- [ ] Base de datos (formulario y estudio pagado.
+- [ ] Speech de comunicación (formulario y estudio pagado).
+- [ ] 5 audios aleatorios (formulario y estudio pagado).
+- [ ] % de conversión (formulario y estudio pagado)
+- [ ] Informes aleatorios de EE. PP.
+
