@@ -1,4 +1,25 @@
 # To-do
+
+## Caso de negocio
+Flujo
+Contactabilidad 42%
+Efectividad 36%
+TMO 5' prospección + 10 post
+Dotación 2 personas * 3000
+Costos (CRM, Telefonia, Licencia OCM, sueldos, Calidad?, Formación?, Wsp?)
+ocupabilidad.
+
+CRM 25 USD
+OCM 65
+Sueldos 1025
+
+100% - 2%
+80 - 1.6%
+60 - 1.2%
+
+1 para prospectar
+2 para flujo completo
+
 para la partida cantidad de asignación.
 reporte de desembolsos diarios.
 partimos 
@@ -6,9 +27,13 @@ partimos
 ## Santander LD Comercios
 - [ ] Revisar Analytics.
     - [ ] Separar gestión Call y Gestión Wsp
+        - [x] Solicitar agregar el campo.
+        - [ ] Verificar
     - [ ] Separa gestión por teléfono.
-- [ ] Revisar arbol de tipificaciones.
-    - [ ] Estado de contacto 1 respuesta del cliente.
+        - [x] Verificar si es posible.
+        - [ ] Solicitar se agregue el campo 'Teléfono Gestionado'
+- [x] Revisar arbol de tipificaciones.
+    - [x] Estado de contacto 1 respuesta del cliente.
 - [ ] Revisar posiciones
     - [x] Verificar mapa actual del piso 6 con Diego Zarate.
     - [ ] Solicitar posiciones (4 juntas).
@@ -55,18 +80,17 @@ Buenas tardes, le escribe XXXXXX, Ejecutiva de Santander Consumer. El motivo de 
 
 ## Credinstante
 
-- [ ] Reunión con Gonzalo Ayala de Acceso.
-    - Revisar Adenda
-    - Cantidad de base.
-    - Flujo operativo.
-    - Tipificaciones.
-    - Bonificación.
+- [ ] Verificar firma de adenda.
+- [ ] Actualizar tipificaciones.
+    - [x] Solicitar la actualización de las tipificaciones.
+    - [ ] Verificar la actualizacción de las tipificaciones.
 
+### Compromisos del Contrato
 Al firmar este contrato, IBR se compromete a prestar el servicio de Impulso Comercial del producto Libre Disponibilidad con Factor de Recaudo, así como de otros productos que ACCESO pueda requerir. Esto implicará el desarrollo de las siguientes actividades: realizar llamadas a los clientes de ACCESO que cuenten con un crédito pre aprobado para ofrecerles la posibilidad de acceder a una evaluación crediticia. Además, IBR debe cumplir con una meta semanal de al menos 1,000 llamadas realizadas, una contactabilidad mínima del 60%, una efectividad mínima del 70%, y un promedio de llamadas por día mínimo de 30. ACCESO deberá pagar a IBR una retribución mensual de S/. 2,500.00 (Dos mil quinientos con 00/100 soles) más IGV, y deberá enviar a IBR la relación de los clientes con los cuales IBR debe comunicarse para realizar el impulso comercial.
 
 Al firmar este contrato, ACCESO se compromete a proporcionar a IBR la relación de los clientes con los cuales IBR debe comunicarse para realizar el impulso comercial. Además, ACCESO deberá pagar a IBR una retribución mensual de S/. 2,500.00 (Dos mil quinientos con 00/100 soles) más IGV.
 
-### Octava Adenda
+### Compromisos de la Octava Adenda
 
 Al firmar esta adenda, IBR Peru S.A. estaría aceptando los siguientes compromisos:
 
@@ -78,8 +102,6 @@ Proporcionar al cliente acceso a toda la información y documentación relaciona
 Respetar la confidencialidad de la información obtenida en la ejecución del contrato.
 Notificar al cliente de cualquier problema o imprevisto que pueda afectar el cumplimiento del contrato en los plazos y condiciones establecidos.
 Solucionar cualquier problema o imprevisto de manera oportuna y efectiva, para garantizar el cumplimiento del contrato.
-
-## Santander Go
 
 ## Equifax
 
