@@ -3,7 +3,8 @@ title: how-to-get-the-current-date-and-time-in-python
 date: 2022-03-10 21:35
 ---
 
-[Knowledge](Knowledge.md)
+#knowledge
+#python
 
 # How to Get the Current Date and Time in Python?
 
@@ -15,5 +16,3 @@ from datetime import datetime
 today = datetime.now()
 print('Today is: {}'.format(str(today)))
 ```
-
--   [python](python.md)
