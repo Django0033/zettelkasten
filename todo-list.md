@@ -1,5 +1,20 @@
 # To-do
 
+Platillas Wsp.
+
+## Presentación Neauto
+Quienes son nuestros clientes.
+Experiencia de la empresa.
+Flujo de gestión Neoautos.
+Herramientas utilizadas.
+- Calidad
+- Audios
+- Servidor SFTP
+Puntos de Contacto.
+Fuerza Valor. (Para cliente y Neoauto)
+Porcentaje que se paga Neoauto.
+Preparación de Acta (solo falta comprador, medio de pago y monto).
+
 ## Caso de negocio
 Flujo
 Contactabilidad 42%
