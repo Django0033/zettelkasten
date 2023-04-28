@@ -1,7 +1,10 @@
 # To-do
 reporte de SMS.
+Reporte policial
+identificación.
 
-
+Cada vez que tengas un comprador avísame para verificar si esta persona puede
+participar de la transferencia.
 
 ## Santander LD Comercios
 - [ ] Whatsapp Business
@@ -26,6 +29,11 @@ reporte de SMS.
     - [x] Solicitar generación de usuarios.
     - [x] Confirmar la generación de usuarios.
 
+### Contrato Santander LD
+#### Discrepancias
+- Se especifica que debemos gestionar 48 horas mensuales incluye sábados hasta
+    las 6 pm.
+
 ### LD Comercios Prioridad de Bases
 1. Referidos
 2. Base diaria
@@ -41,9 +49,14 @@ de Libre Disponibilidad de hasta S/15.000 a 48 meses en Santander Consumer, la
 misma que fue registrada en la plataforma de NeoAutos. ¿Desea que le de
 mayor información al respecto?
 
-Buenos días, le saluda XXXXXX, ejecutiva de Santander Consumer. Debido a que usted es un excelente cliente con nosotros le estamos ofreciendo un crédito de Libre Disponibilidad. ¿Desea que le de mayor información al respecto?
+Buenos días, le saluda XXXXXX, ejecutiva de Santander Consumer. Debido a que
+usted es un excelente cliente con nosotros le estamos ofreciendo un crédito de
+Libre Disponibilidad. ¿Desea que le de mayor información al respecto?
 
-Buenas tardes, le escribe XXXXXX, Ejecutiva de Santander Consumer. El motivo de este mensaje es para ofrecerle un financiamiento de Libre Disponibilidad de hasta S/15.000 a 48 meses. ¿Desea que le de mayor información al respecto?
+Buenos días, le escribe XXXXXX, ejecutivo de la empresa IBR por encargo de
+Santander Consumer. El motivo de este mensaje es para ofrecerle un
+financiamiento de Libre Disponibilidad de hasta S/15.000 a 48 meses. ¿Desea que
+le de mayor información al respecto?
 
 Buenos días, le escribe XXXXXX, ejecutivo de la empresa IBR por encargo
 Santander Consumer. El motivo de este mensaje es para verificar si tuvo
