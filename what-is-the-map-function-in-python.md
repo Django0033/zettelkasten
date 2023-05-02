@@ -1,13 +1,12 @@
 ---
 title: what-is-the-map-function-in-python
 date: 2022-03-13 20:34
+tags: [knowledge, python, map, function]
 ---
-
-[Knowledge](Knowledge.md)
 
 # What is the Map Function in Python?
 
-It's a built-in higher-order function that takes a function and a list as
+It's a built-in higher-order function (1) that takes a function and a list as
 parameters and returns an object that can be turned into a new list with the
 function applied to each element of the list.
 
@@ -21,5 +20,5 @@ def add_one(x):
 new_numbers_list = list(map(add_one, numbers_list))
 ```
 
--   [python](python.md)
--   [what-is-a-higher-order-function](what-is-a-higher-order-function.md)
+---
+1. [[what-is-a-higher-order-function]]

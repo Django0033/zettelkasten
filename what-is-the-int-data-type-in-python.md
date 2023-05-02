@@ -1,7 +1,11 @@
-#extract
-#python
+---
+title: What is the `int` data type in python?
+date:
+tags: [extract, python, int, data-type]
+---
 
-# What is the int data type in python?
+# What is the `int` data type in python?
+
 Int, or integer, is a whole number, positive or negative, without decimals, of
 unlimited length.
 
@@ -15,4 +19,5 @@ print(type(y)) # <class 'int'>
 print(type(z)) # <class 'int'>
 ```
 
+---
 - [[python-tutorial]]

@@ -1,8 +1,10 @@
 ---
-title: while-loop
+title: While loop
 date: 2022-02-11 15:38
+tags: [extract, python, while, loop]
 ---
-# [Extracts](Extracts)
+
+# While loop
 
 ```python
 def main():
@@ -64,5 +66,4 @@ if __name__ == "__main__":
     main()
 ```
 
-[python](python)
-[list-and-repetition](list-and-repetition)
+- [[list-and-repetition]]

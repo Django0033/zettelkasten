@@ -1,10 +1,8 @@
 ---
-title: when-to-nest-a-function
+title: When to Nest a Function?
 date: 2022-03-13 21:00
+tags: [knowledge, functional-programming, function]
 ---
-
-#knowledge
-#functional-programming
 
 # When to Nest a Function?
 

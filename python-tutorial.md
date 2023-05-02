@@ -24,3 +24,5 @@
 - [[what-is-the-int-data-type-in-python]]
 - [[what-is-a-float-data-type-in-python]]
 - [[what-is-the-complex-data-type-in-python]]
+- [[how-to-convert-from-one-numeric-data-type-to-another-in-python]]
+- [[how-to-get-a-random-number-from-a-range-in-python]]
