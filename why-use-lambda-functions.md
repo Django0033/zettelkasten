@@ -1,8 +1,10 @@
 ---
-title: Why-use-lambda-functions
+title: Why use lambda functions?
 date: 2021-12-05 17:08
+tags: [extract, python, lambda, function]
 ---
-# [Extracts](Extracts)
+
+# Why use lambda functions?
 
 ```python
 
@@ -17,5 +19,4 @@ print(my_doubler(11))
 
 ```
 
-- [Python-lambda](python-lambda)
-- [python](python)
+- [[python-lambda]]

@@ -1,5 +1,8 @@
-#extract
-#python
+---
+title: What is the complex data type in python?
+date:
+tags: [extract, python, data-type, complex]
+---
 
 # What is the complex data type in python?
 A complex number is a number that has an imaginary part that doesn't have a real
@@ -15,4 +18,5 @@ print(type(y)) # <class 'complex'>
 print(type(z)) # <class 'complex'>
 ```
 
+---
 - [[python-tutorial]]

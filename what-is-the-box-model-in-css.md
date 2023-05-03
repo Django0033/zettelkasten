@@ -1,6 +1,8 @@
-#knowledge
-#css
-#boxModel
+---
+title: What is the Box Model in CSS?
+date:
+tags: [knowledge, css, box-model]
+---
 
 # What is the Box Model in CSS?
 

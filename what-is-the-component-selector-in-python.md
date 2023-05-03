@@ -1,9 +1,8 @@
 ---
-title: what-is-the-component-selector-in-python
+title: What is the component selector in python?
 date: 2022-03-20 20:28
+tags: [knowledge, python, component-selector]
 ---
-
-[Knowledge](Knowledge.md)
 
 # What is the Component Selector in Python?
 
@@ -28,5 +27,3 @@ year = obj.year
 new_obj = obj.replace(year=2035)
 day_of_week = obj.weekday()
 ```
-
--   [python](python.md)

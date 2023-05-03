@@ -1,9 +1,8 @@
 ---
-title: converting-between-lists-and-dictionaries
+title: Converting between lists and dictionaries
 date: 2022-02-20 20:00
+tags: [ knowledge, python, list, dictionary ]
 ---
-
-[Knowledge](Knowledge.md)
 
 # Converting between lists and dictionaries
 
@@ -39,5 +38,3 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
--   [python](python.md)

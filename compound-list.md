@@ -1,9 +1,10 @@
 ---
-title: compound-list
+title: Compound list
 date: 2022-02-11 14:11
+tags: [ extract, python ]
 ---
 
-# [Extracts](Extracts)
+# Compound list
 
 ```python
 # Create a compound list that stores smaller lists.
@@ -32,6 +33,5 @@ one_tree_height = one_tree[height_index]
 print("height: {}".format(one_tree_height))
 ```
 
-[python](python)
-[list-and-repetition](list-and-repetition)
+- [[list-and-repetition]]
 

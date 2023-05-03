@@ -1,9 +1,8 @@
 ---
-title: what-is-the-filter-function-in-python
+title: What is the Filter Function in Python?
 date: 2022-03-15 22:49
+tags: [knowledge, python, filter, function]
 ---
-
-[Knowledge](Knowledge.md)
 
 # What is the Filter Function in Python?
 
@@ -27,5 +26,3 @@ even_numbers_list = list(filter(is_even, numbers_list))
 
 print(even_numbers_list)
 ```
-
--   [python](python.md)
