@@ -1,7 +1,10 @@
-#extract
-#python
+---
+title:  What is Python?
+date:
+tags: [extract, python]
+---
 
-# What is Python
+# What is Python?
 It's a popular programming language that was created by Guido van Rossum, and
 released in 1991.
 
@@ -10,3 +13,6 @@ It's used for:
 - Software development,
 - Mathematics,
 - System scripting.
+
+---
+- [[python-tutorial]]

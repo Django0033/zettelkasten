@@ -1,9 +1,8 @@
 ---
-title: what-is-procedural-programming
+title: What is procedural programming?
 date: 2022-03-13 19:11
+tags: [knowledge, procedural-programming]
 ---
-
-[Knowledge](Knowledge.md)
 
 # What is Procedural Programming?
 

@@ -1,10 +1,8 @@
 ---
-title: what-is-functional-programming
+title: What is functional programming?
 date: 2022-03-13 19:52
+tags: [knowledge, functional-programming]
 ---
-
-#knowledge
-#functional-programming
 
 # What is Functional Programming?
 
