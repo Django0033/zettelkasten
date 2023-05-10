@@ -1,5 +1,8 @@
-#bibliography
-#python
+---
+title: Python Tutorial
+date:
+tags: [bibliography, python]
+---
 
 # Python Tutorial
 
@@ -26,3 +29,6 @@
 - [[what-is-the-complex-data-type-in-python]]
 - [[how-to-convert-from-one-numeric-data-type-to-another-in-python]]
 - [[how-to-get-a-random-number-from-a-range-in-python]]
+- [[what-is-a-string-in-python]]
+- [[how-to-assign-string-to-a-variable-in-python]]
+- [[how-to-assign-a-multiline-string-to-a-variable-in-python]] 
