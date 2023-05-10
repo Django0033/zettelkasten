@@ -1,5 +1,8 @@
-#extract
-#python
+---
+title: How to specify the data type of a variable in python?
+date:
+tags: [extract, python, data-type, variable]
+---
 
 # How to specify the data type of a variable in python?
 Use the following constructor functions:
