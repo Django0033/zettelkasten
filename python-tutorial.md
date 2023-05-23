@@ -1,7 +1,7 @@
 ---
 title: Python Tutorial
 date:
-tags: [bibliography, python]
+tags: [bibliography, python, tutorial]
 ---
 
 # Python Tutorial
@@ -32,3 +32,12 @@ tags: [bibliography, python]
 - [[what-is-a-string-in-python]]
 - [[how-to-assign-string-to-a-variable-in-python]]
 - [[how-to-assign-a-multiline-string-to-a-variable-in-python]] 
+- [[how-to-access-an-element-of-a-string-in-python]] 
+- [[how-to-loop-through-a-string-in-python]]
+- [[how-to-get-the-length-of-a-string-in-python]]
+- [[how-to-check-if-certain-phrase-or-character-is-present-in-a-string-in-python]]
+- [[how-to-check-if-certain-phrase-or-character-is-not-present-in-a-string-in-python]]
+- [[how-to-return-a-range-of-characters-from-a-string-in-python]]
+- [[how-to-change-a-string-to-uppercase-in-python]]
+- [[how-to-change-a-string-to-lower-case-in-python]]
+- [[how-to-replace-a-string-with-another-string-in-python]]
