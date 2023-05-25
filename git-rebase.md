@@ -1,14 +1,13 @@
 ---
 title: git-rebase
 date: 2022-02-24 18:27
+tags: [extract, git, rebase]
 ---
-
-[Extracts](Extracts.md)
 
 # Git Rebase
 
-`git rebase <target_branch>` copies the commits up to the current branch into the
-target branch.
+`git rebase <target_branch>` copies the commits from `target_branch` into the
+current branch.
 
-- [learn-git-branching](learn-git-branching.md)
-- [git](git.md)
+---
+- [[learn-git-branching]]
