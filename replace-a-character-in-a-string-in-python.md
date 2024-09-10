@@ -1,9 +1,8 @@
 ---
 title: replace-a-character-in-a-string-in-python
 date: 2022-03-01 00:06
+tags: [extract,python,string]
 ---
-
-[Extracts](Extracts.md)
 
 # Replace a Character in a String in Python
 
@@ -18,5 +17,4 @@ print(string.replace('-', '0'))
 print(string.replace('-', '0', 1))
 ```
 
--   [python string replace](python-string-replace.md)
--   [python](python.md)
+- [[python-string-replace]]

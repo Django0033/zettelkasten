@@ -1,7 +1,7 @@
 ---
-title: How-to-remove-white-spaces-from-a-string-in-python
+title: How to remove white spaces from a string in python
 date:
-tags: [ Knowledge, python, string, strip ]
+tags: [ knowledge, python, string, strip ]
 ---
 
 # How to remove white spaces from a string in python?
