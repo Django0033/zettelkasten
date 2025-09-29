@@ -1,6 +1,11 @@
 ---
-title: learn-git-branching
+id: learn-git-branching
+aliases: []
+tags:
+  - extracts
+  - git
 date: 2022-02-24 17:30
+title: learn-git-branching
 ---
 
 [Bibliography](./Bibliography.md)
