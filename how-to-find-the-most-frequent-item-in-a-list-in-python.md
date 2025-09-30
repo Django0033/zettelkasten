@@ -1,5 +1,11 @@
-#extract
-#python
+---
+id: how-to-find-the-most-frequent-item-in-a-list-in-python
+aliases: []
+tags:
+  - extracts
+  - python
+  - list
+---
 
 # How to find the most frequent item in a list in python
 
