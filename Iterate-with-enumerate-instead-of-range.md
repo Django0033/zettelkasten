@@ -1,5 +1,11 @@
-#extract
-#python
+---
+id: Iterate-with-enumerate-instead-of-range
+aliases: []
+tags:
+  - extract
+  - python
+  - enumerate
+---
 
 ```python
 # Bad
@@ -19,4 +25,4 @@ for idx, num in enumerate(data):
 print(data)
 ```
 
-[11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)
+- [[11-Tips-and-Tricks-to-Write-Better-Python-Code.md]]
