@@ -1,6 +1,11 @@
 ---
 title: 10-essential-python-tips-and-tricks-for-programmers
+aliases: []
+tags:
+  - bibliography
+  - python
 date: 2021-12-07 23:10
+title: 10-essential-python-tips-and-tricks-for-programmers
 ---
 
 #bibliography
