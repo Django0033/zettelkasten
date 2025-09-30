@@ -1,9 +1,15 @@
 ---
-title: Return-multiple-values-from-functions
+id: return-multiple-values-from-functions
+aliases: []
+tags:
+  - extracts
+  - python
+  - function
 date: 2021-12-07 23:19
+title: Return-multiple-values-from-functions
 ---
 
-# [Extracts](Extracts)
+# Return multiple values from functions
 
 ```python
 
@@ -16,5 +22,4 @@ print(a, b, c, d)
 
 ```
 
-- [10-essential-python-tips-and-tricks-for-programmers](10-essential-python-tips-and-tricks-for-programmers)
-- [python](python)
+- [[10-essential-python-tips-and-tricks-for-programmers]]
