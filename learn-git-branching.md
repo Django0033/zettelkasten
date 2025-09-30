@@ -2,7 +2,7 @@
 id: learn-git-branching
 aliases: []
 tags:
-  - extracts
+  - bibliography
   - git
 date: 2022-02-24 17:30
 title: learn-git-branching

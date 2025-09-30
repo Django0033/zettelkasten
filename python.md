@@ -78,7 +78,7 @@
 - [Return-multiple-values-from-functions](return-multiple-values-from-functions.md)
 - [Returning-values-from-functions.md](returning-values-from-functionsmd.md)
 - [reverse-method](reverse-method.md)
-- [Reversing-a-string](reversing-a-string.md)
+- [Reversing-a-string](How to reverse a string in python.md)
 - [round-a-float-to-certain-number-of-decimals](round-a-float-to-certain-number-of-decimals.md)
 - [selection-sort](selection-sort.md)
 - [turn-csv-file-content-into-a-dictionary-in-python](turn-csv-file-content-into-a-dictionary-in-python.md)

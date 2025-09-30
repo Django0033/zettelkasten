@@ -15,7 +15,7 @@ title: 10-essential-python-tips-and-tricks-for-programmers
 
 ## Extracts
 
-- [[reversing-a-string]]
+- [[How to reverse a string in python]]
 - [[return-multiple-values-from-functions]]
 - [[how-to-find-the-most-frequent-item-in-a-list-in-python]]
 - [[checking-if-two-words-are-anagrams]]

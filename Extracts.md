@@ -63,7 +63,7 @@
 - [replace-a-character-in-a-string-in-python](replace-a-character-in-a-string-in-python.md)
 - [Return-multiple-values-from-functions](return-multiple-values-from-functions.md)
 - [reverse-method](reverse-method.md)
-- [Reversing-a-string](reversing-a-string.md)
+- [Reversing-a-string](How to reverse a string in python.md)
 - [selection-sort](selection-sort.md)
 - [sticky-positioning](sticky-positioning.md)
 - [the-block-formating-context](the-block-formating-context.md)
