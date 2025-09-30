@@ -1,9 +1,16 @@
 ---
-title: Checking-if-two-words-are-anagrams
+id: checking-if-two-words-are-anagrams
+aliases: []
+tags:
+  - extracts
+  - python
+  - string
+  - function
 date: 2021-12-07 23:31
+title: Checking-if-two-words-are-anagrams
 ---
 
-# [Extracts](Extracts)
+# Checking if two words are anagrams
 
 ```python
 
@@ -15,5 +22,4 @@ print(is_anagram('geek', 'peek'))
 
 ```
 
-- [10-essential-python-tips-and-tricks-for-programmers](10-essential-python-tips-and-tricks-for-programmers)
-- [python](python)
+- [[10-essential-python-tips-and-tricks-for-programmers]]
