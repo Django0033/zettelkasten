@@ -1,5 +1,5 @@
 ---
-title: 10-essential-python-tips-and-tricks-for-programmers
+id: 10-essential-python-tips-and-tricks-for-programmers
 aliases: []
 tags:
   - bibliography
@@ -8,8 +8,6 @@ date: 2021-12-07 23:10
 title: 10-essential-python-tips-and-tricks-for-programmers
 ---
 
-#bibliography
-
 ## 10 Essential Python Tips and Tricks for Programmers
 
 - Author: @RahulBisht07
@@ -17,7 +15,7 @@ title: 10-essential-python-tips-and-tricks-for-programmers
 
 ## Extracts
 
-- [Reversing-a-string](reversing-a-string)
-- [Return-multiple-values-from-functions](return-multiple-values-from-functions)
-- [Find-the-most-frequent-value-in-a-list](find-the-most-frequent-value-in-a-list)
-- [Checking-if-two-words-are-anagrams](checking-if-two-words-are-anagrams)
+- [[reversing-a-string]]
+- [[return-multiple-values-from-functions]]
+- [[how-to-find-the-most-frequent-item-in-a-list-in-python]]
+- [[checking-if-two-words-are-anagrams]]
