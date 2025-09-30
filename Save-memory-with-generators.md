@@ -1,5 +1,13 @@
-#extract
-#python
+---
+id: Save-memory-with-generators
+aliases: []
+tags:
+  - extract
+  - python
+  - generator
+---
+
+# Save memory with generators
 
 ```python
 import sys
@@ -15,4 +23,4 @@ print(sys.getsizeof(my_gen), 'bytes')
 
 Reduces memory usage.
 
-- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)
+- [[11-Tips-and-Tricks-to-Write-Better-Python-Code.md]]
