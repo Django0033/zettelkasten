@@ -1,5 +1,12 @@
-#extract
-#python
+---
+id: Count-hashable-objects-with-collections-counter
+aliases: []
+tags:
+  - extract
+  - python
+  - collections
+  - counter
+---
 
 # Count Hashable Objects with collections counter
 
@@ -16,4 +23,4 @@ most_common = counter.most_common(1) # Returns the most common item. The argumen
 print(most_common)
 ```
 
-- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)
+- [[11-Tips-and-Tricks-to-Write-Better-Python-Code.md]]
