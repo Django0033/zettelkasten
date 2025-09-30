@@ -1,5 +1,13 @@
-#extract
-#python
+---
+id: Merge-two-dictionaries
+aliases: []
+tags:
+  - extract
+  - python
+  - dictionary
+---
+
+# Merge two dictionaries
 
 ```python
 d1 = {'name': 'Alex', 'age': 25}
@@ -8,4 +16,4 @@ merged_dict = {**d1, **d2}
 print(merged_dict)
 ```
 
-- [11-Tips-and-Tricks-to-Write-Better-Python-Code](11-Tips-and-Tricks-to-Write-Better-Python-Code.md)
+- [[11-Tips-and-Tricks-to-Write-Better-Python-Code.md]]
