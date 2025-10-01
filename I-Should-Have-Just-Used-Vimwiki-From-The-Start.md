@@ -15,4 +15,4 @@ tags:
 ## Extracts
 
 - [[delete-a-wiki-file]]
-- [[Jump to the Next Link on Buffer]]
+- [[jump-to-the-next-link-on-buffer]]
