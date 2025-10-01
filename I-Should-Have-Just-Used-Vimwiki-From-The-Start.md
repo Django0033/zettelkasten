@@ -14,5 +14,5 @@ tags:
 
 ## Extracts
 
-- [[Delete a Wiki File]]
+- [[delete-a-wiki-file]]
 - [[Jump to the Next Link on Buffer]]
