@@ -1,4 +1,11 @@
-[Bibliography](Bibliography)
+---
+id: I-Should-Have-Just-Used-Vimwiki-From-The-Start
+aliases: []
+tags:
+  - bibliography
+  - vimwiki
+  - neovim
+---
 
 # I Should Have Just Used Vimwiki From The Start
 
@@ -7,5 +14,5 @@
 
 ## Extracts
 
-* [Delete a Wiki File](Delete a Wiki File)
-* [Jump to the Next Link on Buffer](Jump to the Next Link on Buffer)
+- [[Delete a Wiki File]]
+- [[Jump to the Next Link on Buffer]]
